@@ -1,0 +1,14 @@
+streamlit 
+streamlit_extras
+python-dotenv 
+requests 
+PyPDF2
+docx2txt
+langchain
+langchain_community
+sentence-transformers
+faiss-cpu 
+firebase_admin
+nltk
+reportlab
+pdfplumber
